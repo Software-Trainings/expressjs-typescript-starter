@@ -1,8 +1,10 @@
 # Express JS Typescript Starter
 
 ## Install:
-> $ npm install
-> $ npm run dev
+```
+$ npm install
+$ npm run dev
+```
 
 Ouvrir ton navigateur sur [http://localhost:3000](http://localhost:3000)
 
